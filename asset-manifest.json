@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/khelo-tech/static/css/main.f855e6bc.css",
-    "main.js": "/khelo-tech/static/js/main.7b12939c.js",
+    "main.css": "/khelo-tech/static/css/main.1008ad69.css",
+    "main.js": "/khelo-tech/static/js/main.3acc5073.js",
     "static/js/453.407517f2.chunk.js": "/khelo-tech/static/js/453.407517f2.chunk.js",
-    "static/media/logo.svg": "/khelo-tech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/mainBg.png": "/khelo-tech/static/media/mainBg.9610a9f2098203978ab0.png",
+    "static/media/Skater.png": "/khelo-tech/static/media/Skater.f3f0bdf98078332a61b5.png",
+    "static/media/crickter.png": "/khelo-tech/static/media/crickter.901429059c71b182260f.png",
+    "static/media/FootballPlayer.png": "/khelo-tech/static/media/FootballPlayer.e999d9ca4999d35f3066.png",
+    "static/media/purple.png": "/khelo-tech/static/media/purple.4f653820b29e324280b3.png",
+    "static/media/countdownBanner.png": "/khelo-tech/static/media/countdownBanner.50b1788970c84a5cba87.png",
+    "static/media/Archery_Pose.png": "/khelo-tech/static/media/Archery_Pose.13c5f0465249cccd73d4.png",
+    "static/media/archeryBG.png": "/khelo-tech/static/media/archeryBG.9ee9fda1eb7152874a85.png",
+    "static/media/uttrakhand-logo.png": "/khelo-tech/static/media/uttrakhand-logo.bf6fc61c94106b2f1d43.png",
     "index.html": "/khelo-tech/index.html",
-    "main.f855e6bc.css.map": "/khelo-tech/static/css/main.f855e6bc.css.map",
-    "main.7b12939c.js.map": "/khelo-tech/static/js/main.7b12939c.js.map",
+    "main.1008ad69.css.map": "/khelo-tech/static/css/main.1008ad69.css.map",
+    "main.3acc5073.js.map": "/khelo-tech/static/js/main.3acc5073.js.map",
     "453.407517f2.chunk.js.map": "/khelo-tech/static/js/453.407517f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.7b12939c.js"
+    "static/css/main.1008ad69.css",
+    "static/js/main.3acc5073.js"
   ]
 }
