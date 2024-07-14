@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/khelo-tech/static/css/main.1996357e.css",
-    "main.js": "/khelo-tech/static/js/main.e3b280f7.js",
+    "main.css": "/khelo-tech/static/css/main.b29c6f60.css",
+    "main.js": "/khelo-tech/static/js/main.2a48f030.js",
     "static/js/453.407517f2.chunk.js": "/khelo-tech/static/js/453.407517f2.chunk.js",
+    "static/media/LatestNews_4.svg": "/khelo-tech/static/media/LatestNews_4.7c9f74bf1607e75c8eb3bd59f5a73972.svg",
+    "static/media/LatestNews_2.svg": "/khelo-tech/static/media/LatestNews_2.86fe89c756e15e293edac92bfcaf2c13.svg",
+    "static/media/LatestNews_6.svg": "/khelo-tech/static/media/LatestNews_6.6de7d22502c9cf71d35029a4e8c3363f.svg",
+    "static/media/LatestNews_1.svg": "/khelo-tech/static/media/LatestNews_1.37fff60db5da925515bb002f062e084b.svg",
     "static/media/mainBg.png": "/khelo-tech/static/media/mainBg.9610a9f2098203978ab0.png",
+    "static/media/LatestNews_3.svg": "/khelo-tech/static/media/LatestNews_3.ff3cd8670e25a05a98ac18535937957c.svg",
+    "static/media/LatestNews_5.svg": "/khelo-tech/static/media/LatestNews_5.698ac3cf2a02e0d0488094510ba7ef5f.svg",
     "static/media/Skater.png": "/khelo-tech/static/media/Skater.f3f0bdf98078332a61b5.png",
     "static/media/crickter.png": "/khelo-tech/static/media/crickter.901429059c71b182260f.png",
     "static/media/Globe.png": "/khelo-tech/static/media/Globe.5f3c8ed580e0b9507e22.png",
@@ -26,13 +32,16 @@
     "static/media/Partner_4.png": "/khelo-tech/static/media/Partner_4.ea1601db0ef1a0a49f39.png",
     "static/media/Partner_9.png": "/khelo-tech/static/media/Partner_9.4b347c6caa0ae479980b.png",
     "static/media/uttrakhand-logo.png": "/khelo-tech/static/media/uttrakhand-logo.bf6fc61c94106b2f1d43.png",
+    "static/media/footballIcon.svg": "/khelo-tech/static/media/footballIcon.61c1b76d0e6f83cf3c7ec418625db9d9.svg",
+    "static/media/golfIcon.svg": "/khelo-tech/static/media/golfIcon.7ae4ca5194077ed4d732f6eb7409f76c.svg",
+    "static/media/judoIcon.svg": "/khelo-tech/static/media/judoIcon.bbd7945d6377decc27124711e5e02676.svg",
     "index.html": "/khelo-tech/index.html",
-    "main.1996357e.css.map": "/khelo-tech/static/css/main.1996357e.css.map",
-    "main.e3b280f7.js.map": "/khelo-tech/static/js/main.e3b280f7.js.map",
+    "main.b29c6f60.css.map": "/khelo-tech/static/css/main.b29c6f60.css.map",
+    "main.2a48f030.js.map": "/khelo-tech/static/js/main.2a48f030.js.map",
     "453.407517f2.chunk.js.map": "/khelo-tech/static/js/453.407517f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1996357e.css",
-    "static/js/main.e3b280f7.js"
+    "static/css/main.b29c6f60.css",
+    "static/js/main.2a48f030.js"
   ]
 }
