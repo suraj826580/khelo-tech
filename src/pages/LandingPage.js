@@ -31,7 +31,7 @@ function LandingPage() {
       <ConversationStats />
       <SportsGrid />
       <FollowUs />
-      <CompetitionZone />
+      {/* <CompetitionZone /> */}
       <PhotoGallery />
       <Partners />
       <NumberBanner />

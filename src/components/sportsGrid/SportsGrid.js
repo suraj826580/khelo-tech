@@ -28,7 +28,12 @@ const SportsGrid = () => {
           <div
             key={index}
             className="sport-card"
-            style={{ backgroundImage: `url(${sport.background})` }}>
+            style={{
+              backgroundImage: `url(${sport.background})`,
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+              backgroundRepeat: "no-repeat",
+            }}>
             <img src={sport.image} alt={sport.name} />
           </div>
         ))}

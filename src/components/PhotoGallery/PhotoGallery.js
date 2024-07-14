@@ -1,36 +1,51 @@
 import React from "react";
-import { Container, Row, Col, Image } from "react-bootstrap";
-import Gallery_1 from "../../assets/images/Galler_1.png";
+import Gallery_1 from "../../assets/images/Gallery_1.svg";
+import Gallery_2 from "../../assets/images/Gallery_2.svg";
+import Gallery_3 from "../../assets/images/Gallery_3.svg";
+import Gallery_4 from "../../assets/images/Gallery_4.svg";
 
 const PhotoGallery = () => {
   const images = [
-    { src: Gallery_1, alt: "Image 1 description" },
-    { src: Gallery_1, alt: "Image 2 description" },
-    { src: Gallery_1, alt: "Image 3 description" },
-    { src: Gallery_1, alt: "Image 4 description" },
+    {
+      src: Gallery_1,
+      alt: "Image 1 description",
+      title: "Swasti Singh's gold powers Odisha past 50 medals",
+    },
+    {
+      src: Gallery_2,
+      alt: "Image 2 description",
+      title: "Swasti Singh's gold powers Odisha past 50 medals",
+    },
+    {
+      src: Gallery_3,
+      alt: "Image 3 description",
+      title: "Swasti Singh's gold powers Odisha past 50 medals",
+    },
+    {
+      src: Gallery_4,
+      alt: "Image 4 description",
+      title: "Swasti Singh's gold powers Odisha past 50 medals",
+    },
   ];
 
   return (
-    <Container fluid className="photo-gallery">
-      <Row className="align-items-center mb-3">
-        <Col>
-          <h2 className="gallery-title">PHOTO GALLERY</h2>
-        </Col>
-        <Col xs="auto">
-          <div className="gallery-controls">
-            <span className="control active"></span>
-            <span className="control"></span>
-          </div>
-        </Col>
-      </Row>
-      <Row className="grid">
+    <div className="photo-gallery">
+      <div className="gallery-header">
+        <h2 className="gallery-title">PHOTO GALLERY</h2>
+        <div className="gallery-controls">
+          <span className="control active"></span>
+          <span className="control"></span>
+        </div>
+      </div>
+      <div className="image-grid">
         {images.map((image, index) => (
-          <Col key={index} xs={12} className="image-container">
-            <Image src={image.src} alt={image.alt} fluid />
-          </Col>
+          <div key={index} className="image-container">
+            <img src={image.src} alt={image.alt} />
+            <p className="image-title">{image.title}</p>
+          </div>
         ))}
-      </Row>
-    </Container>
+      </div>
+    </div>
   );
 };
 
