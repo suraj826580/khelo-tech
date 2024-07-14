@@ -761,6 +761,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  /* align-items: center; */
 }
 
 .follow-us-content h2 {
@@ -810,6 +811,11 @@ body {
 /* Competiton Zone CSS */
 
 .competition-zone {
+  flex: 1;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   background-color: #ffffff;
   padding: 2rem;
 }
