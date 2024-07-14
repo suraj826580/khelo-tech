@@ -20,16 +20,16 @@ function ContentSection() {
       <div className="content-box right-box">
         <div className="registration-box">
           <button className="coral-button">The Game Live Registration</button>
-          <h3>The Game Live Registration</h3>
-          <p>
+          <h3 className="right-box-heading">The Game Live Registration</h3>
+          <p className="right-box-heading">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
         </div>
         <div className="accreditation-box">
           <button className="coral-button">The Game Live Accreditation</button>
-          <h3>The Game Live Accreditation</h3>
-          <p>
+          <h3 className="right-box-heading">The Game Live Accreditation</h3>
+          <p className="right-box-heading">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
