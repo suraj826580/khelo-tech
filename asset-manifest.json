@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/khelo-tech/static/css/main.0c40a6b6.css",
-    "main.js": "/khelo-tech/static/js/main.1bc753a1.js",
+    "main.css": "/khelo-tech/static/css/main.c939bf0b.css",
+    "main.js": "/khelo-tech/static/js/main.c40868f4.js",
     "static/js/453.407517f2.chunk.js": "/khelo-tech/static/js/453.407517f2.chunk.js",
     "static/media/LatestNews_4.svg": "/khelo-tech/static/media/LatestNews_4.0b9ba877d4240fb4a067ac2d57b69183.svg",
     "static/media/Gallery_2.svg": "/khelo-tech/static/media/Gallery_2.d3fb73f66aef9472cca547689f44b8b2.svg",
@@ -20,9 +20,11 @@
     "static/media/Globe.png": "/khelo-tech/static/media/Globe.5f3c8ed580e0b9507e22.png",
     "static/media/FootballPlayer.png": "/khelo-tech/static/media/FootballPlayer.e999d9ca4999d35f3066.png",
     "static/media/Numbers.png": "/khelo-tech/static/media/Numbers.6710275b8ae8617494f1.png",
+    "static/media/Footer_2024.svg": "/khelo-tech/static/media/Footer_2024.ec959689f7bb5915df0633d0bcfbbb29.svg",
     "static/media/purple.png": "/khelo-tech/static/media/purple.4f653820b29e324280b3.png",
     "static/media/Partner_2.png": "/khelo-tech/static/media/Partner_2.e106a85b46fcf5f5be81.png",
     "static/media/countdownBanner.png": "/khelo-tech/static/media/countdownBanner.50b1788970c84a5cba87.png",
+    "static/media/Logo_Footer.svg": "/khelo-tech/static/media/Logo_Footer.3c91bd2b3468fc3d93c4e8cc6a39eb1a.svg",
     "static/media/Partner_16.png": "/khelo-tech/static/media/Partner_16.9dadc9f0c335468441c4.png",
     "static/media/Partner_10.png": "/khelo-tech/static/media/Partner_10.7401d7823e4473beaa39.png",
     "static/media/Partner_3.png": "/khelo-tech/static/media/Partner_3.267287483550b15d95de.png",
@@ -30,21 +32,26 @@
     "static/media/Partner_8.png": "/khelo-tech/static/media/Partner_8.cd3a24ce1710cc881a66.png",
     "static/media/archeryBG.png": "/khelo-tech/static/media/archeryBG.9ee9fda1eb7152874a85.png",
     "static/media/Partner_1.png": "/khelo-tech/static/media/Partner_1.9c4251b0149fc0c96e6c.png",
+    "static/media/Playstore.svg": "/khelo-tech/static/media/Playstore.efbdac8314a12ab8091286ddb03babe4.svg",
     "static/media/Partner_5.png": "/khelo-tech/static/media/Partner_5.45181542d8c51a142dc4.png",
     "static/media/Partner_14.png": "/khelo-tech/static/media/Partner_14.65fb5a8a4622390755e5.png",
+    "static/media/AppStore.svg": "/khelo-tech/static/media/AppStore.3ac7ef6e0323bfbca4e8c42052cf5254.svg",
     "static/media/Partner_4.png": "/khelo-tech/static/media/Partner_4.ea1601db0ef1a0a49f39.png",
     "static/media/Partner_9.png": "/khelo-tech/static/media/Partner_9.4b347c6caa0ae479980b.png",
     "static/media/uttrakhand-logo.png": "/khelo-tech/static/media/uttrakhand-logo.bf6fc61c94106b2f1d43.png",
     "static/media/footballIcon.svg": "/khelo-tech/static/media/footballIcon.f51b8e24ff5a556bfa4fa3feae34823f.svg",
+    "static/media/Robot.svg": "/khelo-tech/static/media/Robot.90b8b90e647b43b7169024fb8516e6dd.svg",
+    "static/media/Social.svg": "/khelo-tech/static/media/Social.8f2719a859f6d8f59be8db4d1055fff3.svg",
     "static/media/golfIcon.svg": "/khelo-tech/static/media/golfIcon.e0bdc869127527df0d7c580b0d3be41d.svg",
     "static/media/judoIcon.svg": "/khelo-tech/static/media/judoIcon.fddb073c967e464c6f5d94c96ed65946.svg",
+    "static/media/Walk.svg": "/khelo-tech/static/media/Walk.98c940906db229d5c4f042efc98f9c3b.svg",
     "index.html": "/khelo-tech/index.html",
-    "main.0c40a6b6.css.map": "/khelo-tech/static/css/main.0c40a6b6.css.map",
-    "main.1bc753a1.js.map": "/khelo-tech/static/js/main.1bc753a1.js.map",
+    "main.c939bf0b.css.map": "/khelo-tech/static/css/main.c939bf0b.css.map",
+    "main.c40868f4.js.map": "/khelo-tech/static/js/main.c40868f4.js.map",
     "453.407517f2.chunk.js.map": "/khelo-tech/static/js/453.407517f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c40a6b6.css",
-    "static/js/main.1bc753a1.js"
+    "static/css/main.c939bf0b.css",
+    "static/js/main.c40868f4.js"
   ]
 }
