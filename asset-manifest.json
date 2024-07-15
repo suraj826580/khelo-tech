@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/khelo-tech/static/css/main.c939bf0b.css",
+    "main.css": "/khelo-tech/static/css/main.0a850404.css",
     "main.js": "/khelo-tech/static/js/main.c40868f4.js",
     "static/js/453.407517f2.chunk.js": "/khelo-tech/static/js/453.407517f2.chunk.js",
     "static/media/LatestNews_4.svg": "/khelo-tech/static/media/LatestNews_4.0b9ba877d4240fb4a067ac2d57b69183.svg",
@@ -46,12 +46,12 @@
     "static/media/judoIcon.svg": "/khelo-tech/static/media/judoIcon.fddb073c967e464c6f5d94c96ed65946.svg",
     "static/media/Walk.svg": "/khelo-tech/static/media/Walk.98c940906db229d5c4f042efc98f9c3b.svg",
     "index.html": "/khelo-tech/index.html",
-    "main.c939bf0b.css.map": "/khelo-tech/static/css/main.c939bf0b.css.map",
+    "main.0a850404.css.map": "/khelo-tech/static/css/main.0a850404.css.map",
     "main.c40868f4.js.map": "/khelo-tech/static/js/main.c40868f4.js.map",
     "453.407517f2.chunk.js.map": "/khelo-tech/static/js/453.407517f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c939bf0b.css",
+    "static/css/main.0a850404.css",
     "static/js/main.c40868f4.js"
   ]
 }
